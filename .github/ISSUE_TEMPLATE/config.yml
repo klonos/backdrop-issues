@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Backdrop Security Team
+  - name: report security issues to the Backdrop Security Team
     url: https://backdropcms.org/security
-    about: If you believe you may have discovered a security issue with Backdrop CMS, contact the Backdrop Security Team directly at security@backdropcms.org. In order to keep everyone safe, we manage security issues separately in a private repository. So please refrain from publicly blogging, or tweeting about it until the issue has been resolved.
+    about: If you believe you may have discovered a security issue with Backdrop CMS, contact the Backdrop Security Team directly at mailto:security@backdropcms.org. In order to keep everyone safe, we manage security issues separately in a private repository. So please refrain from publicly blogging, or tweeting about it until the issue has been resolved.
