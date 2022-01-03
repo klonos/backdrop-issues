@@ -1,6 +1,5 @@
 name: 🐞 Bug report
 description: Noticed something not working as expected?
-title: "title cannot be empty"
 labels: ["type - bug report"]
 body:
 - type: markdown
