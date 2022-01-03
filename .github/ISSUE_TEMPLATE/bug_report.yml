@@ -54,6 +54,5 @@ body:
       - Web server and its version:
       - Operating System and its version:
       - Browser(s) and their versions:
-    render: markdown
   validations:
     required: false
